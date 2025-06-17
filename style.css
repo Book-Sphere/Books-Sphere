@@ -1161,7 +1161,7 @@ footer {
 
     body.dark-theme .nav-links a:hover,
     body.dark-theme .footer-links a:hover {
-        color: var(--black);
+        color: var(--primary-light);
     }
 
     body.dark-theme .search-bar input {
